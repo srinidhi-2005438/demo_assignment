@@ -2,6 +2,7 @@
 int main()
 {
 	int day;
+	printf("Enter the day number(1 as starting of the week)\n\n");
 	scanf("%d",&day);
 	switch(day)
 	{
